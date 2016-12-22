@@ -1,0 +1,6 @@
+apache_log
+error_log
+nginx_log
+vendor
+*.swp
+*.bak
