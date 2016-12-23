@@ -5,6 +5,7 @@ This is a test task list
 - [ ] Drag and Drop interface
 - [ ] Image Gallery
 - [ ] Import images from Drag and Drop to Amazon bucket
+- [ ] Simple raw image URLs
 - [ ] Other shit
 
 ## Authentication
